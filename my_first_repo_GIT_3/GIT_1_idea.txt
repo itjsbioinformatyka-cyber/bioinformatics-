@@ -1,0 +1,5 @@
+Własny przykład zastosowania kontroli wersji:
+
+Wersjonowanie notatek wlasnych:
+Można wykorzystać GIT do zarządzania notatkami własnymi (wykorzystywane do nauki lub recenzowania czyjejś pracy).
+Celem wykorzystania GIT jest uporządkowany sposób przechowywania tych notatek i łatwe śledzenia zmian w notatkach. Możemy też łatwo wrócić (przypomnieć sobie) do poprzedniej wersji naszych zapisków.
