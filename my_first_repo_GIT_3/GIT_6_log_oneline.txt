@@ -1,0 +1,6 @@
+211e239 rozwiazanie zadania 5
+5fc55ae Dodaje plik README.md z opisem projektu
+3bf2c3e To juz ostatnie pliki ze statusami
+64f23b9 Pliki staatusu
+21dfc87 Dodaje plik ze statusem i pomyslem na wykorzystanie systemu kontroli wersji
+c985226 Initial commit

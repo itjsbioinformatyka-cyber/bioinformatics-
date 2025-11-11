@@ -1,0 +1,17 @@
+commit 211e2394fe173529a20a404d0e3ef4d927d4e195
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 19:13:02 2025 +0100
+
+    rozwiazanie zadania 5
+
+diff --git a/my_first_repo_GIT_3/GIT_5_diff.txt b/my_first_repo_GIT_3/GIT_5_diff.txt
+new file mode 100644
+index 0000000..35fc966
+--- /dev/null
++++ b/my_first_repo_GIT_3/GIT_5_diff.txt
+@@ -0,0 +1,5 @@
++w zadaniu GIT_5 zostal dodany nowy plik 'drugi_plik.txt' i zostal tam dodany tekst 'Lorem ipsum...' (wszsytko w jendym commitcie)
++
++nowy_plik.txt zostal utworzony w jednym commitcie (byl pusty) i w nastepnym commicie zostal do niego dodany tekst 'hello world'
++
++ 

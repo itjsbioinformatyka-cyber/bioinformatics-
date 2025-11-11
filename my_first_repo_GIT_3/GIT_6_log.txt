@@ -1,0 +1,35 @@
+commit 211e2394fe173529a20a404d0e3ef4d927d4e195
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 19:13:02 2025 +0100
+
+    rozwiazanie zadania 5
+
+commit 5fc55aeec41b811eadb66197ea02f9289e186ce0
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Sun Nov 2 11:19:56 2025 +0100
+
+    Dodaje plik README.md z opisem projektu
+
+commit 3bf2c3e85dba0b7b593402fd016ff3fc7d8edaaf
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Sun Nov 2 11:19:23 2025 +0100
+
+    To juz ostatnie pliki ze statusami
+
+commit 64f23b9b72d6747649edea3152aa56f3e6745a1f
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Sun Nov 2 11:04:32 2025 +0100
+
+    Pliki staatusu
+
+commit 21dfc875f1b87f8def60de58909ef3133f30e226
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Sun Nov 2 11:02:23 2025 +0100
+
+    Dodaje plik ze statusem i pomyslem na wykorzystanie systemu kontroli wersji
+
+commit c9852265ff09c2337db968e71c48aaf2c117afe1
+Author: itjsbioinformatyka-cyber <itjs.bioinformatyka@gmail.com>
+Date:   Sun Nov 2 09:59:24 2025 +0100
+
+    Initial commit
