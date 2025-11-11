@@ -1,0 +1,129 @@
+commit 4b839e195d00b7c3beb8490f5659b25eeff669d5
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 20:52:54 2025 +0100
+
+    zadanie 9
+
+commit 7ef7d541b6cd35d2f7981b0055cb614d75e4fe01
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 20:52:15 2025 +0100
+
+    zadanie 8 - git8 rebase
+
+commit 0993f09938f2ac25bd573543d037d21ffac617f4
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 20:34:27 2025 +0100
+
+    zadanie 8 - cherry-pick done
+
+commit df7f89e7fee90709e48a17b565e6f4c4f82d6f2d
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 20:30:51 2025 +0100
+
+    zadanie 8 - cherry-pick
+
+commit f3db2d38a65ef57e6fc274b21af3b9f592373a19
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 20:23:25 2025 +0100
+
+    zadanie 8
+    
+    zadanie8 - stan przed rebase
+
+commit f07294b692cd208c977e8363525346b11dcb3050
+Merge: 42f99be 8b5c574
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 20:19:32 2025 +0100
+
+    Merge branch 'test'
+
+commit 8b5c574719221d21ad84785f93a9aef2f6027541
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 20:18:17 2025 +0100
+
+    zadanie 8
+
+commit ae5c9307f5c32d98cc5e1b7d695c8b9cfc3af2af
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 20:12:58 2025 +0100
+
+    zadanie 8
+
+commit 42f99be4dbac7c1c38d307e627cce28563dc512a
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 20:12:10 2025 +0100
+
+    zadanie 8
+
+commit f9d6040c39f8fc760070ed44c57e719815a43e2f
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 19:39:43 2025 +0100
+
+    zadanie 7
+
+commit 4bffeefd2ee74456782f6dcd08d29c234bedfb01
+Merge: d983412 cc7bc5a
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 19:38:59 2025 +0100
+
+    Merge branch 'test'
+
+commit cc7bc5aca4b3d384156dfe974de94e9bc14cbd64
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 19:34:19 2025 +0100
+
+    edycja README.md nr 2
+
+commit d98341250c4f8f47cf881ac3c18620843951d7ba
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 19:32:47 2025 +0100
+
+    edycja README.md nr 1
+
+commit 73fa0ffa34c33f3f643d3af8353ebb5388744a4b
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 19:30:49 2025 +0100
+
+    zadanie 7
+
+commit a7534d0ad309e18a5801829b158bcb2af4959f0f
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 19:16:59 2025 +0100
+
+    zadanie 6
+
+commit 211e2394fe173529a20a404d0e3ef4d927d4e195
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Tue Nov 11 19:13:02 2025 +0100
+
+    rozwiazanie zadania 5
+
+commit 5fc55aeec41b811eadb66197ea02f9289e186ce0
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Sun Nov 2 11:19:56 2025 +0100
+
+    Dodaje plik README.md z opisem projektu
+
+commit 3bf2c3e85dba0b7b593402fd016ff3fc7d8edaaf
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Sun Nov 2 11:19:23 2025 +0100
+
+    To juz ostatnie pliki ze statusami
+
+commit 64f23b9b72d6747649edea3152aa56f3e6745a1f
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Sun Nov 2 11:04:32 2025 +0100
+
+    Pliki staatusu
+
+commit 21dfc875f1b87f8def60de58909ef3133f30e226
+Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
+Date:   Sun Nov 2 11:02:23 2025 +0100
+
+    Dodaje plik ze statusem i pomyslem na wykorzystanie systemu kontroli wersji
+
+commit c9852265ff09c2337db968e71c48aaf2c117afe1
+Author: itjsbioinformatyka-cyber <itjs.bioinformatyka@gmail.com>
+Date:   Sun Nov 2 09:59:24 2025 +0100
+
+    Initial commit
