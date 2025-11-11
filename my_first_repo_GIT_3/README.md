@@ -9,3 +9,4 @@ sluchacz: Jakub Szepielak
 numer: pd4858 
 `
 'Praca z galeziami i rozwiazywanie konfliktow'
+Tym wpisem chcemy spowodowac konflikt
