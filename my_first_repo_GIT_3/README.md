@@ -1,5 +1,5 @@
 # System Kontroli Wersji
-##To repozytorium zozstalo stworzone na potrzeby przedmiotu System Kontroli Wersji. 
+## To repozytorium zozstalo stworzone na potrzeby przedmiotu System Kontroli Wersji. 
 Przedmiot ten uczy poslugiwania sie narzedziem jakim jest GIT. 
 GIT mozna wykorzystywac wszedzie tam, gdzie potrzebujemy miec historie zmian i informacje kto tej zmiany dokonal. 
 
