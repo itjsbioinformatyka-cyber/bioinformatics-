@@ -1,0 +1,14 @@
+* 2c7c1db zadanie 7
+*   4bffeef Merge branch 'test'
+|\  
+| * cc7bc5a edycja README.md nr 2
+| * 73fa0ff zadanie 7
+* | d983412 edycja README.md nr 1
+|/  
+* a7534d0 zadanie 6
+* 211e239 rozwiazanie zadania 5
+* 5fc55ae Dodaje plik README.md z opisem projektu
+* 3bf2c3e To juz ostatnie pliki ze statusami
+* 64f23b9 Pliki staatusu
+* 21dfc87 Dodaje plik ze statusem i pomyslem na wykorzystanie systemu kontroli wersji
+* c985226 Initial commit
