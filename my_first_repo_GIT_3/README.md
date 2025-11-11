@@ -8,3 +8,4 @@ nazwa przedmiotu: System kontroli wersji
 sluchacz: Jakub Szepielak
 numer: pd4858 
 `
+'Praca z galeziami i rozwiazywanie konfliktow'
