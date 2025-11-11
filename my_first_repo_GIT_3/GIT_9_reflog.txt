@@ -1,0 +1,47 @@
+e36f1df HEAD@{0}: commit: zadanie 9 krok 2
+7ef7d54 HEAD@{1}: reset: moving to HEAD~1
+4b839e1 HEAD@{2}: commit: zadanie 9
+7ef7d54 HEAD@{3}: commit: zadanie 8 - git8 rebase
+0993f09 HEAD@{4}: commit: zadanie 8 - cherry-pick done
+df7f89e HEAD@{5}: cherry-pick: zadanie 8 - cherry-pick
+f3db2d3 HEAD@{6}: checkout: moving from test to main
+a233269 HEAD@{7}: commit: zadanie 8 - cherry-pick
+8b5c574 HEAD@{8}: checkout: moving from main to test
+f3db2d3 HEAD@{9}: rebase (finish): returning to refs/heads/main
+f3db2d3 HEAD@{10}: rebase (squash): zadanie 8
+444df80 HEAD@{11}: rebase (start): checkout HEAD~2
+7c4dbd1 HEAD@{12}: commit: zadanie8 - stan przed rebase
+444df80 HEAD@{13}: commit: zadanie 8
+f07294b HEAD@{14}: reset: moving to HEAD
+f07294b HEAD@{15}: merge test: Merge made by the 'ort' strategy.
+42f99be HEAD@{16}: checkout: moving from test to main
+8b5c574 HEAD@{17}: commit: zadanie 8
+ae5c930 HEAD@{18}: commit: zadanie 8
+cc7bc5a HEAD@{19}: checkout: moving from main to test
+42f99be HEAD@{20}: commit: zadanie 8
+f9d6040 HEAD@{21}: reset: moving to HEAD
+f9d6040 HEAD@{22}: commit (amend): zadanie 7
+2c7c1db HEAD@{23}: commit: zadanie 7
+4bffeef HEAD@{24}: commit (merge): Merge branch 'test'
+d983412 HEAD@{25}: checkout: moving from test to main
+cc7bc5a HEAD@{26}: commit: edycja README.md nr 2
+73fa0ff HEAD@{27}: checkout: moving from main to test
+d983412 HEAD@{28}: commit: edycja README.md nr 1
+a7534d0 HEAD@{29}: checkout: moving from test to main
+73fa0ff HEAD@{30}: commit: zadanie 7
+a7534d0 HEAD@{31}: checkout: moving from main to test
+a7534d0 HEAD@{32}: commit: zadanie 6
+211e239 HEAD@{33}: commit: rozwiazanie zadania 5
+5fc55ae HEAD@{34}: commit: Dodaje plik README.md z opisem projektu
+3bf2c3e HEAD@{35}: commit: To juz ostatnie pliki ze statusami
+64f23b9 HEAD@{36}: commit: Pliki staatusu
+21dfc87 HEAD@{37}: commit: Dodaje plik ze statusem i pomyslem na wykorzystanie systemu kontroli wersji
+c985226 HEAD@{38}: reset: moving to origin/main
+b61bdcb HEAD@{39}: reset: moving to HEAD
+b61bdcb HEAD@{40}: commit (amend): Dodaje plik z pomyslem na wykorzystanie systemu kontroli wersji.
+9b332bf HEAD@{41}: reset: moving to HEAD
+9b332bf HEAD@{42}: reset: moving to HEAD
+9b332bf HEAD@{43}: reset: moving to HEAD
+9b332bf HEAD@{44}: commit: Dodaje plik z pomyslem na wykorzystanie systemu kontroli wersji.
+ce04b9e HEAD@{45}: commit: Dodaje plik z pomyslem na wykorzystanie GIT.
+c985226 HEAD@{46}: clone: from https://github.com/itjsbioinformatyka-cyber/bioinformatics-.git
