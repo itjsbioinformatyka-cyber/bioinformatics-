@@ -1,0 +1,59 @@
+diff --git a/my_first_repo_GIT_3/GIT_8_log.txt b/my_first_repo_GIT_3/GIT_8_log.txt
+new file mode 100644
+index 0000000..f5e528c
+--- /dev/null
++++ b/my_first_repo_GIT_3/GIT_8_log.txt
+@@ -0,0 +1,53 @@
++commit cc7bc5aca4b3d384156dfe974de94e9bc14cbd64
++Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
++Date:   Tue Nov 11 19:34:19 2025 +0100
++
++    edycja README.md nr 2
++
++commit 73fa0ffa34c33f3f643d3af8353ebb5388744a4b
++Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
++Date:   Tue Nov 11 19:30:49 2025 +0100
++
++    zadanie 7
++
++commit a7534d0ad309e18a5801829b158bcb2af4959f0f
++Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
++Date:   Tue Nov 11 19:16:59 2025 +0100
++
++    zadanie 6
++
++commit 211e2394fe173529a20a404d0e3ef4d927d4e195
++Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
++Date:   Tue Nov 11 19:13:02 2025 +0100
++
++    rozwiazanie zadania 5
++
++commit 5fc55aeec41b811eadb66197ea02f9289e186ce0
++Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
++Date:   Sun Nov 2 11:19:56 2025 +0100
++
++    Dodaje plik README.md z opisem projektu
++
++commit 3bf2c3e85dba0b7b593402fd016ff3fc7d8edaaf
++Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
++Date:   Sun Nov 2 11:19:23 2025 +0100
++
++    To juz ostatnie pliki ze statusami
++
++commit 64f23b9b72d6747649edea3152aa56f3e6745a1f
++Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
++Date:   Sun Nov 2 11:04:32 2025 +0100
++
++    Pliki staatusu
++
++commit 21dfc875f1b87f8def60de58909ef3133f30e226
++Author: itjs_bioinformatyka <itjs_bioinformatyka@gmail.com>
++Date:   Sun Nov 2 11:02:23 2025 +0100
++
++    Dodaje plik ze statusem i pomyslem na wykorzystanie systemu kontroli wersji
++
++commit c9852265ff09c2337db968e71c48aaf2c117afe1
++Author: itjsbioinformatyka-cyber <itjs.bioinformatyka@gmail.com>
++Date:   Sun Nov 2 09:59:24 2025 +0100
++
++    Initial commit
