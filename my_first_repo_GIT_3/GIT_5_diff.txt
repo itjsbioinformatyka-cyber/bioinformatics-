@@ -1,0 +1,5 @@
+w zadaniu GIT_5 zostal dodany nowy plik 'drugi_plik.txt' i zostal tam dodany tekst 'Lorem ipsum...' (wszsytko w jendym commitcie)
+
+nowy_plik.txt zostal utworzony w jednym commitcie (byl pusty) i w nastepnym commicie zostal do niego dodany tekst 'hello world'
+
+ 
