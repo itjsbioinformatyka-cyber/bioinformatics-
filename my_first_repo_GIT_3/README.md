@@ -15,6 +15,4 @@ ostatnia edycja:
 - 11/11/2025
 - 21:07
 
-` 
-git init
-`
+`git init`
